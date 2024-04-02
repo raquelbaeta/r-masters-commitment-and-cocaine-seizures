@@ -1,0 +1,221 @@
+"code","id","country","UN1971","UN1961","UN1988"
+"AAB",58,"Antigua & Barbuda",0,0,0
+"AFG",700,"Afghanistan",0,1,1
+"ALB",339,"Albania",0,0,0
+"ALB",339,"Albania",0,0,0
+"ALG",615,"Algeria",0,0,0
+"AND",232,"Andorra",0,0,0
+"ANG",540,"Angola",0,0,0
+"ARG",160,"Argentina",1,1,1
+"ARM",371,"Armenia",0,0,0
+"AUH",300,"Austria-Hungary",0,0,0
+"AUL",900,"Australia",0,0,0
+"AUS",305,"Austria",0,0,0
+"AZE",373,"Azerbaijan",0,1,0
+"BAD",267,"Baden",0,0,0
+"BAH",692,"Bahrain",0,0,0
+"BAR",53,"Barbados",0,0,0
+"BAV",245,"Bavaria",0,0,0
+"BEL",211,"Belgium",0,1,1
+"BEN",434,"Benin",0,1,0
+"BFO",439,"Burkina Faso",0,0,0
+"BHM",31,"Bahamas",0,0,0
+"BHU",760,"Bhutan",0,0,0
+"BLR",370,"Belarus",1,1,1
+"BLZ",80,"Belize",0,0,0
+"BNG",771,"Bangladesh",0,0,0
+"BOL",145,"Bolivia",0,0,1
+"BOS",346,"Bosnia and Herzegovina",0,0,0
+"BOT",571,"Botswana",0,0,0
+"BRA",140,"Brazil",1,1,1
+"BRU",835,"Brunei",0,0,0
+"BUI",516,"Burundi",0,0,0
+"BUL",355,"Bulgaria",0,0,0
+"CAM",811,"Cambodia",0,0,0
+"CAN",20,"Canada",0,1,1
+"CAO",471,"Cameroon",0,0,0
+"CAP",402,"Cape Verde",0,0,0
+"CDI",437,"Ivory Coast",0,0,0
+"CEN",482,"Central African Republic",0,0,0
+"CHA",483,"Chad",0,0,0
+"CHL",155,"Chile",1,1,1
+"CHN",710,"China",0,0,1
+"COL",100,"Colombia",0,1,1
+"COM",581,"Comoros",0,0,0
+"CON",484,"Congo",0,0,0
+"COS",94,"Costa Rica",0,0,0
+"CRO",344,"Croatia",0,0,0
+"CUB",40,"Cuba",0,1,1
+"CYP",352,"Cyprus",0,1,1
+"CZE",315,"Czechoslovakia",0,0,0
+"CZR",316,"Czech Republic",0,0,0
+"DEN",390,"Denmark",0,0,0
+"DJI",522,"Djibouti",0,1,0
+"DMA",54,"Dominica",0,0,0
+"DOM",42,"Dominican Republic",0,1,0
+"DRC",490,"Democratic Republic of the Congo",0,0,0
+"DRV",816,"Vietnam",0,0,0
+"ECU",130,"Ecuador",0,1,1
+"EGY",651,"Egypt",1,1,1
+"EQG",411,"Equatorial Guinea",0,0,0
+"ERI",531,"Eritrea",0,1,0
+"EST",366,"Estonia",0,0,0
+"ETH",530,"Ethiopia",0,1,0
+"ETM",860,"East Timor",0,0,0
+"FIJ",950,"Fiji",0,0,0
+"FIN",375,"Finland",1,1,1
+"FRN",220,"France",0,0,0
+"FSM",987,"Federated States of Micronesia",0,1,0
+"GAB",481,"Gabon",0,0,1
+"GAM",420,"Gambia",0,0,0
+"GHA",452,"Ghana",1,0,1
+"GMY",255,"Germany",0,0,0
+"GNB",404,"Guinea-Bissau",0,1,0
+"GRC",350,"Greece",1,1,1
+"GRG",372,"Georgia",0,0,0
+"GRN",55,"Grenada",0,0,0
+"GUA",90,"Guatemala",0,0,0
+"GUI",438,"Guinea",0,0,0
+"GUY",110,"Guyana",1,1,0
+"HAI",41,"Haiti",0,0,0
+"HAI",41,"Haiti",0,0,0
+"HAN",240,"Hanover",0,0,0
+"HON",91,"Honduras",0,0,0
+"HSE",273,"Hesse Electoral",0,0,0
+"HSG",275,"Hesse Grand Ducal",0,0,0
+"HUN",310,"Hungary",0,0,0
+"ICE",395,"Iceland",0,0,0
+"IND",750,"India",0,1,0
+"INS",850,"Indonesia",0,0,0
+"IRE",205,"Ireland",0,0,0
+"IRN",630,"Iran",1,1,1
+"IRQ",645,"Iraq",0,1,0
+"ISR",666,"Israel",0,1,1
+"ITA",325,"Italy",0,1,1
+"JAM",51,"Jamaica",0,1,1
+"JOR",663,"Jordan",0,1,1
+"JPN",740,"Japan",1,1,1
+"KEN",501,"Kenya",0,1,0
+"KIR",946,"Kiribati",0,0,0
+"KOR",730,"Korea",0,0,0
+"KOS",347,"Kosovo",0,0,0
+"KUW",690,"Kuwait",0,0,0
+"KYR",703,"Kyrgyzstan",0,0,0
+"KZK",705,"Kazakhstan",0,0,0
+"LAO",812,"Laos",0,1,0
+"LAT",367,"Latvia",0,0,0
+"LAT",367,"Latvia",0,0,0
+"LBR",450,"Liberia",1,0,0
+"LEB",660,"Lebanon",0,0,0
+"LES",570,"Lesotho",0,0,0
+"LIB",620,"Libya",0,0,0
+"LIE",223,"Liechtenstein",0,1,0
+"LIT",368,"Lithuania",0,0,0
+"LUX",212,"Luxembourg",0,1,1
+"MAA",435,"Mauritania",0,0,0
+"MAC",343,"Macedonia",0,0,0
+"MAD",781,"Maldives",0,0,0
+"MAG",580,"Madagascar",0,0,0
+"MAL",820,"Malaysia",0,0,0
+"MAS",590,"Mauritius",0,0,0
+"MAW",553,"Malawi",0,0,0
+"MEC",280,"Mecklenburg Schwerin",0,0,0
+"MEX",70,"Mexico",0,1,1
+"MLD",359,"Moldova",0,0,0
+"MLI",432,"Mali",0,1,0
+"MLT",338,"Malta",0,0,0
+"MNC",221,"Monaco",0,0,0
+"MNG",341,"Montenegro",0,0,0
+"MOD",332,"Modena",0,0,0
+"MON",712,"Mongolia",0,0,0
+"MOR",600,"Morocco",0,0,0
+"MSI",983,"Marshall Islands",0,0,0
+"MYA",775,"Myanmar",0,0,0
+"MZM",541,"Mozambique",0,0,0
+"NAM",565,"Namibia",0,0,0
+"NAU",970,"Nauru",0,0,0
+"NEP",790,"Nepal",0,0,0
+"NEW",920,"New Zealand",0,0,0
+"NIC",93,"Nicaragua",0,1,1
+"NIG",475,"Nigeria",0,0,0
+"NIR",436,"Niger",0,0,0
+"NOR",385,"Norway",0,1,1
+"NOR",385,"Norway",0,1,1
+"NTH",210,"Netherlands",0,0,0
+"OMA",698,"Oman",0,0,0
+"PAK",770,"Pakistan",0,1,1
+"PAL",986,"Palau",0,0,0
+"PAN",95,"Panama",0,1,1
+"PAP",327,"Papal States",0,0,0
+"PAR",150,"Paraguay",0,0,0
+"PER",135,"Peru",0,1,1
+"PHI",840,"Philippines",0,0,0
+"PMA",335,"Parma",0,0,0
+"PNG",910,"Papua New Guinea",0,1,0
+"POL",290,"Poland",1,1,1
+"POR",235,"Portugal",0,0,0
+"PRK",731,"North Korea",0,1,0
+"QAT",694,"Qatar",0,0,0
+"ROK",732,"South Korea",0,0,0
+"ROM",360,"Romania",0,0,0
+"RUS",365,"Russia",1,1,1
+"RVN",817,"Republic of Vietnam",0,0,0
+"RWA",517,"Rwanda",1,0,0
+"SAF",560,"South Africa",0,0,0
+"SAL",92,"El Salvador",0,0,0
+"SAU",670,"Saudi Arabia",0,0,0
+"SAX",269,"Saxony",0,0,0
+"SEN",433,"Senegal",0,1,1
+"SEY",591,"Seychelles",0,0,0
+"SIC",329,"Two Sicilies",0,0,0
+"SIE",451,"Sierra Leone",0,0,0
+"SIN",830,"Singapore",0,0,0
+"SKN",60,"St. Kitts and Nevis",0,0,0
+"SLO",317,"Slovakia",0,0,0
+"SLU",56,"St. Lucia",0,0,0
+"SLV",349,"Slovenia",0,0,0
+"SNM",331,"San Marino",0,0,0
+"SOL",940,"Solomon Islands",0,0,0
+"SOM",520,"Somalia",0,1,0
+"SPN",230,"Spain",0,0,0
+"SRI",780,"Sri Lanka",0,0,0
+"SSD",626,"South Sudan",0,0,0
+"STP",403,"Sao Tome and Principe",0,1,0
+"SUD",625,"Sudan",0,0,0
+"SUR",115,"Suriname",0,1,1
+"SVG",57,"St. Vincent and the Grenadines",0,0,0
+"SWA",572,"Swaziland",0,0,0
+"SWD",380,"Sweden",0,0,0
+"SWZ",225,"Switzerland",0,0,0
+"SYR",652,"Syria",0,1,0
+"SYR",652,"Syria",0,1,0
+"TAJ",702,"Tajikistan",0,0,0
+"TAW",713,"Taiwan",0,0,0
+"TAZ",510,"Tanzania",0,0,0
+"THI",800,"Thailand",0,0,0
+"TKM",701,"Turkmenistan",0,1,0
+"TOG",461,"Togo",0,0,0
+"TON",955,"Tonga",0,1,0
+"TRI",52,"Trinidad and Tobago",0,0,0
+"TUN",616,"Tunisia",0,1,1
+"TUR",640,"Turkey",1,1,1
+"TUS",337,"Tuscany",0,0,0
+"TUV",947,"Tuvalu",0,0,0
+"UAE",696,"United Arab Emirates",0,0,0
+"UGA",500,"Uganda",0,1,0
+"UKG",200,"United Kingdom",0,0,0
+"UKR",369,"Ukraine",1,1,1
+"URU",165,"Uruguay",0,0,0
+"USA",2,"United States",1,1,1
+"UZB",704,"Uzbekistan",0,0,0
+"VAN",935,"Vanuatu",0,0,0
+"VEN",101,"Venezuela",1,1,1
+"WRT",271,"Wuerttemburg",0,0,0
+"WSM",990,"Samoa",0,0,0
+"YAR",678,"Yemen Arab Republic",0,0,0
+"YEM",679,"Yemen",0,0,1
+"YPR",680,"Yemen People's Republic",0,0,0
+"YUG",345,"Yugoslavia",0,0,0
+"ZAM",551,"Zambia",0,0,0
+"ZAN",511,"Zanzibar",0,0,0
+"ZIM",552,"Zimbabwe",0,0,0
