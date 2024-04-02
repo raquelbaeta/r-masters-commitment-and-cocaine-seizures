@@ -1,5 +1,9 @@
 # Start 
 
+# title: "Cleaining military spending data"
+# author: "Raquel Baeta"
+# date: "2024-03-04"
+
 # Install libraries
 install.packages(c("readxl", "dplyr", "tidyverse", "dplyr"))
 
@@ -57,11 +61,9 @@ filtered_milex_dollar$code <- countrycode(
 print(filtered_milex_dollar) 
 
 # Convert one variable to numeric
-filtered_milex_dollar$milex_dollar <- as.numeric(
-  as.character(filtered_milex_dollar$milex_dollar)) 
+filtered_milex_dollar$milex_dollar <- as.numeric(as.character(filtered_milex_dollar$milex_dollar)) 
 
-filtered_milex_dollar$year <- as.numeric(
-  as.character(filtered_milex_dollar$year)) 
+filtered_milex_dollar$year <- as.numeric(as.character(filtered_milex_dollar$year)) 
 
 # Print the resulting data frame
 print(filtered_milex_dollar)
@@ -108,11 +110,9 @@ filtered_milex_gdp$code <- countrycode(
 print(filtered_milex_gdp) 
 
 # Convert one variable to numeric
-filtered_milex_gdp$milex_gdp <- as.numeric(
-  as.character(filtered_milex_gdp$milex_gdp)) 
+filtered_milex_gdp$milex_gdp <- as.numeric(as.character(filtered_milex_gdp$milex_gdp)) 
 
-filtered_milex_gdp$year <- as.numeric(
-  as.character(filtered_milex_gdp$year)) 
+filtered_milex_gdp$year <- as.numeric(as.character(filtered_milex_gdp$year)) 
 
 # Print the resulting data frame
 print(filtered_milex_gdp)
