@@ -1,7 +1,7 @@
 # Start 
 
 # title: "Cleaning State commitment data to United Nations Conventions 1961, 1971, 1988"
-# author: "by Raquel Baeta"
+# author: "Raquel Baeta"
 # date: "2023-12-08"
 
 # Install necessary libraries
