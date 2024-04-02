@@ -1,5 +1,9 @@
 # Start
 
+# title: "Cleaning Cocaine seizures from the United Nations Office on Drugs and Crime"
+# author: "Raquel Baeta"
+# date: "2024-03-04"
+
 # Install necessary libraries
 install.packages(c("readxl", "tidyverse", "dplyr", "countrycode"))
 
@@ -22,7 +26,9 @@ columns_to_fill <- c("region",
 # Fill missing values using a top-down approach
 cocaine_data_filled <- cocaine_data %>%
   fill(!!columns_to_fill, .direction = "down")
-print(cocaine_data_filled) # Show the filled data
+
+# Show the filled data
+print(cocaine_data_filled) 
 summary(cocaine_data_filled)
 
 # Select rows with "cocaine-type" in drug_group
@@ -40,6 +46,8 @@ cocaine_only$code <- countrycode(
   sourcevar = cocaine_only$country, 
   origin = "country.name", 
   destination = "iso3c")
+
+# Show data
 print(cocaine_only)
 str(cocaine_only)
 
@@ -67,8 +75,7 @@ cocaine_longer <- cocaine_longer %>%
 summary(cocaine_longer)
 
 # Remove unwanted columns
-cocaine_longer <- subset(cocaine_longer, 
-                         select = -c(region, subregion, drug_group))
+cocaine_longer <- subset(cocaine_longer, select = -c(region, subregion, drug_group))
 colnames(cocaine_longer)
 
 # Filter rows where the year is 1996 or later
