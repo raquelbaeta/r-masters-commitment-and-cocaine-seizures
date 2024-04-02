@@ -1,5 +1,9 @@
 # Start 
 
+# title: "Cleaning economic indicators datasets"
+# author: "Raquel Baeta"
+# date: "2024-03-04"
+
 # Install necessary libraries
 install.packages(c("readxl", "dplyr", "tidyverse", "dplyr", "wbstats", "WDI"))
 
@@ -52,8 +56,7 @@ merged_wb_data <- merged_wb_data %>%
     imports_gdp = "NE.IMP.GNFS.ZS",
   ) %>%
   select(
-    region, region_iso3c, country, code, year, gdp_cap_dollar, gdp, gne_gdp,
-    exports_gdp, imports_gdp)
+    region, region_iso3c, country, code, year, gdp_cap_dollar, gdp, gne_gdp, exports_gdp, imports_gdp)
 
 # Now, worldbank_data has the columns renamed 
 colnames(merged_wb_data)
@@ -69,8 +72,7 @@ print(unique_countries)
 # 
 
 # Add the new column trade_ratio
-merged_wb_data$trade_ratio <- (
-  merged_wb_data$exports_gdp + merged_wb_data$imports_gdp) / merged_wb_data$gdp_cap_dollar
+merged_wb_data$trade_ratio <- (merged_wb_data$exports_gdp + merged_wb_data$imports_gdp) / merged_wb_data$gdp_cap_dollar
 
 # Look 
 str(merged_wb_data)
