@@ -9,12 +9,17 @@ install.packages(c("readxl", "dplyr", "tidyverse", "countrycode", "fuzzyjoin"))
 
 ### Set the Working Directory
 Update the working directory in the script to the location where you have placed your datasets:
+
 setwd("~/path-to-your-directory/cleaning_data")
 
 The script will perform the following operations:
+
 Install necessary libraries
+
 Load and clean individual datasets
+
 Merge the cleaned datasets
+
 Save the final merged dataset as .csv and .rds files
 
 ### Datasets
@@ -42,10 +47,15 @@ cleaned_data.rds: RDS format of the final dataset.
 If you would like to contribute to this project, please follow these steps:
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature-branch).
+
 Make your changes.
+
 Commit your changes (git commit -m 'Add some feature').
+
 Push to the branch (git push origin feature-branch).
+
 Create a new Pull Request.
 
 
