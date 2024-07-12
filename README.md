@@ -22,9 +22,13 @@ Save the final merged dataset as .csv and .rds files
 The following datasets are used in this project:
 
 cocaine_data_long.csv: Contains data on cocaine seizures.
+
 government_data.csv: Contains government-related data.
+
 statelist.csv: Contains data on various states.
+
 wgi_data.csv: Contains World Governance Indicators data.
+
 milex_data.csv: Contains military expenditure data.
 
 ### Scripts
