@@ -14,48 +14,44 @@ setwd("~/path-to-your-directory/cleaning_data")
 
 The script will perform the following operations:
 
-Install necessary libraries
+_Install necessary libraries
 
-Load and clean individual datasets
+_Load and clean individual datasets
 
-Merge the cleaned datasets
+_Merge the cleaned datasets
 
-Save the final merged dataset as .csv and .rds files
+_Save the final merged dataset as .csv and .rds files
 
 ### Datasets
 
 The following datasets are used in this project:
 
-cocaine_data_long.csv: Contains data on cocaine seizures.
+(a) cocaine_data_long.csv: Contains data on cocaine seizures.
 
-government_data.csv: Contains government-related data.
+(b) government_data.csv: Contains government-related data.
 
-statelist.csv: Contains data on various states.
+(c) statelist.csv: Contains data on various states.
 
-wgi_data.csv: Contains World Governance Indicators data.
+(d) wgi_data.csv: Contains World Governance Indicators data.
 
-milex_data.csv: Contains military expenditure data.
+(e) milex_data.csv: Contains military expenditure data.
 
 ### Scripts
 data_cleaning_and_merging.R: Main script that performs data cleaning and merging operations.
 
 The cleaned and merged dataset will be saved in the following files:
+
 cleaned_data.csv: CSV format of the final dataset.
+
 cleaned_data.rds: RDS format of the final dataset.
 
 ### Contributing
 If you would like to contribute to this project, please follow these steps:
 
-Fork the repository.
-
-Create a new branch (git checkout -b feature-branch).
-
-Make your changes.
-
+Fork the repository. 
+Create a new branch (git checkout -b feature-branch). Make your changes.
 Commit your changes (git commit -m 'Add some feature').
-
 Push to the branch (git push origin feature-branch).
-
 Create a new Pull Request.
 
 
